@@ -17,7 +17,8 @@ pip install -r requirements.txt
 ## Dataset
 For certain reasons, we are currently unable to make our dataset publicly available. If you need access to our dataset, please contact Anqi(```lianqi@westlake.edu.cn```).
 
-![alt text](figure/dataset_statistic.png)
+<img src="figure/dataset_statistic.png" alt="示例图片" width="50%" height="50%">
+<!-- ![alt text](figure/dataset_statistic.png) -->
 
 ## Training
 
