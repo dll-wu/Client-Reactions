@@ -1,6 +1,6 @@
 # Client-Reactions
 
-This repository provides part of the code for Baseline Classifiers training and evaluation in our paper *Understanding Client Reactions in Online Mental Health Counseling*. (Our [paper]() has been accepted to ACL2023.)
+This repository provides part of the code for Baseline Classifiers training and evaluation in our paper *Understanding Client Reactions in Online Mental Health Counseling*. (Our [paper](https://github.com/dll-wu/Client-Reactions/blob/main/paper/Understanding%20Client%20Reactions%20in%20Online%20Mental%20Health%20Counseling.pdf) has been accepted to ACL2023.)
 
 ![alt text](figure/figure1.png)
 
